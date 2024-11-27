@@ -1,20 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amira-1manai.amira-1manai" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amira+Manai!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hadil+khemissi!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Tunisia</h3>
+<h3 align="center">A passionate data engineer from Paris</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working from Home
- 
- 🌱 I’m currently learning **Docker, Nodejs,Angular ,SpringBoot, React**
+🔭 I’m currently working remotely.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/amira-1manai/amira-1manai/issues)**
+🌱 I’m currently learning **Apache Spark, Hadoop, Dataiku, and Cloud Platforms (AWS, Azure)**.
+
+💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Big Data Technologies, or anything [here](https://github.com/hadil123-web/hadil123-web/issues)**.
+
 
 
 
@@ -31,7 +32,7 @@
 
 <h3 align="left"> 💬Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amira-manai-a348ba286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amira-Manai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hadil-khemissi-3ab5a51b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amira-Manai" height="30" width="40" /></a>
 </p>
 # Main Skills #
 
