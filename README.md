@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amira-1manai.amira-1manai" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hadil-khemissi.hadil-khemissi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hadil+khemissi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hadil+Khemissi!;" />
 </h1>
 
 <h3 align="center">A passionate data engineer from Paris</h3>
@@ -14,171 +14,99 @@
 
 🌱 I’m currently learning **Apache Spark, Hadoop, Dataiku, and Cloud Platforms (AWS, Azure)**.
 
-💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Big Data Technologies, or anything [here](https://github.com/hadil123-web/hadil123-web/issues)**.
-
-
-
-
- </div>
- 
-
+💬 Ask me about **Python, Machine Learning, SQL, Power BI, and Big Data Technologies**.
 
 </div>
 
+---
 
+<h3 align="center">📊 Skills Overview</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadil-khemissi&show_icons=true&theme=radical" alt="Hadil Khemissi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadil-khemissi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-<br/>
-- 📫 How to reach me **hadilkhemissi01@gmail.com**
+---
 
-<h3 align="left"> 💬Connect with me :</h3>
+<h3 align="left">💬 Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hadil-khemissi-3ab5a51b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amira-Manai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hadil-khemissi-3ab5a51b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-# Main Skills #
 
+---
 
-<a href="https://developer.android.com/reference"><img src="./android-plain.svg" alt="android" height="100" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="./ios.svg" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="./react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="./kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://vuejs.org/guide/introduction.html"><img src="./vue.svg" alt="vue" height="100" title="Vue documentation"></a>
-<a href="https://angular.io/start"><img src="./angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://golang.org/doc/"><img src="./go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
-# 💻 My favorite tools and technologies
+<h3 align="center">🚀 My Skills</h3>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ml-icon.svg" alt="Machine Learning" width="65" height="65" />
+      <br>Machine Learning
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="65" height="65" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/spark-icon.svg" alt="Apache Spark" width="65" height="65" />
+      <br>Apache Spark
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65" />
+      <br>Azure
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<h3 align="center">🌟 Fun Addition</h3>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://github.com/hadil-khemissi/hadil-khemissi/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<h3 align="center">✨ Favorite Tools & Technologies</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" width="65" height="65" />
+      <br>Power BI
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" />
       <br>Django
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65" />
+      <br>Azure
     </td>
   </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
 </table>
-<br><br>
-<div align="left">
-  <h3> 🐍Contributions :</h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/walidhsn/walidhsn/blob/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-<hr/>
-
-
-
 </div>
 
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hadil-khemissi&theme=redical" alt="Contribution Graph" />
+</div>
